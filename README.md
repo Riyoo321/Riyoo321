@@ -32,7 +32,7 @@ ENDS_HERE_QUOTE_README -->
 
 ---
 
-### 👾 Dev Playground (Humor & Stats)
+### 👾 Dev Playground (Humor & Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Libra2694&color=7873f5&style=flat-square&label=Profile+Views" alt="Profile Views" />
