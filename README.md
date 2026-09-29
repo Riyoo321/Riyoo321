@@ -105,7 +105,7 @@ ENDS_HERE_QUOTE_README -->
 
 ---
 
-<p align="center">
+<p align="center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=100&section=footer"/>
 </p>
 
